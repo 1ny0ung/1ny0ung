@@ -1,7 +1,8 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Inyoung&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B9EBFF&width=700&height=200&section=header&text=Hello,%20I'm%20Inyoung&fontSize=30&animation=fadeIn)
+<img src="https://github.com/1ny0ung/1ny0ung/assets/98141439/b59ca3fc-bd30-40c7-b56b-8840084ba35d.gif" width="600" gravity="center"/>
   
 서울여자대학교 디지털미디어학과 전공, 소프트웨어융합학과 부전공
 
